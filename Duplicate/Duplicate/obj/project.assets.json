@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\413-4\\source\\repos\\Regex\\Regex\\Regex.csproj",
-      "projectName": "Regex",
-      "projectPath": "C:\\Users\\413-4\\source\\repos\\Regex\\Regex\\Regex.csproj",
+      "projectUniqueName": "C:\\Users\\413-4\\source\\repos\\Duplicate\\Duplicate\\Duplicate.csproj",
+      "projectName": "Duplicate",
+      "projectPath": "C:\\Users\\413-4\\source\\repos\\Duplicate\\Duplicate\\Duplicate.csproj",
       "packagesPath": "C:\\Users\\413-4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\413-4\\source\\repos\\Regex\\Regex\\obj\\",
+      "outputPath": "C:\\Users\\413-4\\source\\repos\\Duplicate\\Duplicate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

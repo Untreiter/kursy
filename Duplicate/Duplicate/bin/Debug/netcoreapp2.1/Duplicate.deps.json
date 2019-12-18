@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "Regex/1.0.0": {
+      "Duplicate/1.0.0": {
         "runtime": {
-          "Regex.dll": {}
+          "Duplicate.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Regex/1.0.0": {
+    "Duplicate/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
